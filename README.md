@@ -18,6 +18,7 @@ Features:
 
 
 To Run the code:
+
 go to the terminal of linux
 create: "touch code.c"
 write/edit: "gedit code.c"
