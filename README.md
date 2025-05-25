@@ -17,7 +17,7 @@ Features:
 - Signal handling: Ignores 'Ctrl+C' at shell level and terminates only active child processes and terminates 'Ctrl+D'
 
 
-To Run the code:
+#To Run the code:
 
 -go to the terminal of linux
 -create: "touch code.c"
