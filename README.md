@@ -19,7 +19,7 @@ Features:
 
 To Run the code:
 
-go to the terminal of linux
-create: "touch code.c"
-write/edit: "gedit code.c"
-compile: "gcc -o c code.c" " ./c "
+-go to the terminal of linux
+-create: "touch code.c"
+-write/edit: "gedit code.c"
+-compile: "gcc -o c code.c" " ./c "
